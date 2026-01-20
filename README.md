@@ -15,7 +15,8 @@ Ce projet est mon premier site web créé avec HTML/CSS.
 ## Installation
 
 1. Cloner le dépôt
-2. Ouvrir `accueil.html` dans un navigateur
+2. acceder au repertoire (pages)
+3. Ouvrir `accueil.html` dans un navigateur
 
 ## Auteur
 
